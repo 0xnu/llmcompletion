@@ -1,8 +1,5 @@
 ## llmcompletion
 
-[![Release](https://img.shields.io/github/release/0xnu/llmcompletion.svg)](https://github.com/0xnu/llmcompletion/releases/latest)
-[![License](https://img.shields.io/github/license/0xnu/llmcompletion)](/LICENSE)
-
 Exploring and using the capabilities of large language models (LLMs). By providing prompts and adjusting parameters, I observe and control the model's text generation behaviour without actively trying to deconstruct or replicate the model itself.
 
 ### Install Dependencies
